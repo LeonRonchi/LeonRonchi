@@ -1,6 +1,10 @@
+### Olá sou Leon, compartilho meus projetos e estudos.  
+
 <div align="center">
-  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeonRonchi&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=A1A4A0&bg_color=0d1117" alt="Leon Ronchi github stats"/>
-  <img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonRonchi&layout=compact&hide_border=true&langs_count=10&title_color=FF0000&text_color=A1A4A0&bg_color=0d1117" />
+  <a href="https://github.com/LeonRonchi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonronchi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonronchi&layout=compact&langs_count=7&theme=tokyonight"/> 
+
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonRonchi&bg_color=0d1117&color=FF0000&line=ffa726&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
