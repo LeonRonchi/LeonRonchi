@@ -7,8 +7,6 @@
 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonRonchi&bg_color=70A5FD&color=FF0000&line=ffa726&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
  ### Ferramentas e Tecnologias:
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30" height="30"/>
